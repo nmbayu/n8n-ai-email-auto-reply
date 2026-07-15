@@ -9,7 +9,7 @@
         0,
         0
       ],
-      "id": "f114e39c-c6a2-4ee9-87c1-2368d46aee1d",
+      "id": "",
       "name": "When clicking ‘Execute workflow’"
     },
     {
@@ -17,13 +17,13 @@
         "assignments": {
           "assignments": [
             {
-              "id": "1b430d40-eadc-4302-977b-f97358dfad07",
+              "id": "",
               "name": "email",
               "value": "Hello,  I forgot my password. Can you help me reset it?  Thank you.",
               "type": "string"
             },
             {
-              "id": "4f9daa2c-1b53-4383-a378-4d6acafea238",
+              "id": "",
               "name": "from",
               "value": "customer@example.com",
               "type": "string"
@@ -38,7 +38,7 @@
         208,
         0
       ],
-      "id": "65d36bac-2f6d-471a-9428-96a4f3e6a44a",
+      "id": "",
       "name": "Edit Fields"
     },
     {
@@ -53,7 +53,7 @@
         416,
         0
       ],
-      "id": "6abe5e57-2837-4750-a911-3df0fadea824",
+      "id": "",
       "name": "AI Agent"
     },
     {
@@ -67,11 +67,11 @@
         288,
         208
       ],
-      "id": "4f0ef255-9d83-491b-bddd-810656b6667d",
+      "id": "",
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "tuCeGpnITXT7tA4l",
+          "id": "",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -89,12 +89,12 @@
         768,
         0
       ],
-      "id": "fd94631f-6121-4c06-96ed-fb57cdc8d289",
+      "id": "",
       "name": "Send a message",
-      "webhookId": "e8a139b6-49e2-4507-aa29-81a4ac9b95d0",
+      "webhookId": "",
       "credentials": {
         "gmailOAuth2": {
-          "id": "3t80rwOn9JNAUstX",
+          "id": "",
           "name": "Gmail account"
         }
       }
@@ -153,10 +153,10 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "0a2f8db7-13f7-4dc3-ada1-ad3030d445f7",
+  "versionId": "",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "9d7270b772b779d18a23f1ea420944d6534b2c272491151a484e2495c3db7ee7"
+    "instanceId": ""
   },
   "nodeGroups": [],
   "id": "8j6mNEq3RwsuKafL",
